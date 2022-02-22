@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning C++, HTML, and Python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me jorge.mogollon013@gmail.com
+- I attend Iowa State University as a Computer Science Major will Graduate Spring 2025
+- 
 
 <!---
 JMogollon13/JMogollon13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
